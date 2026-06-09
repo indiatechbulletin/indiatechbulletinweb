@@ -1,4 +1,5 @@
 import { articles } from "@/lib/articles";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -15,7 +16,7 @@ export default function Home() {
               <span className="news-date">{article.date}</span>
               <h2 className="news-title">{article.title}</h2>
               <p className="news-excerpt">{article.excerpt}</p>
-              <a href={`/article/${article.id}`} className="read-more">Read Full Article</a>
+              <Link href={`/article/${article.id}`} className="read-more">Read Full Article</Link>
             </article>
           ))}
         </div>

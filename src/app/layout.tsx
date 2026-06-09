@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Outfit } from "next/font/google";
+import Link from "next/link";
 import "./globals.css";
 
 const inter = Inter({
@@ -42,11 +43,11 @@ export default function RootLayout({
       <body>
         <header className="glass-nav">
           <div className="nav-container">
-            <a href="/" className="logo">
+            <Link href="/" className="logo">
               India <span>Tech</span> Bulletin
-            </a>
+            </Link>
             <nav>
-              <a href="/">Home</a>
+              <Link href="/">Home</Link>
               <a href="#latest">Latest News</a>
               <a href="mailto:indiatechbulletin.contact@gmail.com">Contact</a>
             </nav>
