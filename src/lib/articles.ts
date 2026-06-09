@@ -8,69 +8,69 @@ export interface Article {
 
 export const articles: Article[] = [
   {
-    id: "tech-hiring-slowdown-june-2026",
-    title: "Indian Tech Job Market Hits 28-Month Low Amid AI Shift",
-    date: "June 8, 2026",
-    excerpt: "Active hiring in the Indian tech sector has reached a 28-month low, as companies pivot toward AI integration and move away from traditional mass recruitment.",
-    content: `The Indian technology job market has reached its lowest point of active hiring in 28 months, with a 14 percent month-on-month decline in job openings recorded in early June 2026. Industry reports show total active openings falling to approximately 93,000. 
+    id: "mid-year-tech-review-2026",
+    title: "Mid-Year Tech Review: Market Shifts and Industry Realignment",
+    date: "June 5, 2026",
+    excerpt: "A comprehensive look at the first half of 2026, tracking the rapid deployment of autonomous AI agents and the resulting volatility in software valuations.",
+    content: `The technology sector has experienced significant structural shifts in the first six months of 2026. The widespread deployment of autonomous AI agents has forced a reevaluation of traditional software models, leading to a period of market volatility.
 
-This slowdown is not solely a result of global economic uncertainty but represents a structural shift in how IT firms operate. Companies are increasingly integrating "Agentic AI" and generative tools into their core business operations. As these systems begin to autonomously execute multi-step tasks, the demand for traditional, entry-level IT roles has decreased significantly. 
+In India, the effects have been particularly visible in the hiring market. Major IT services firms have paused mass recruitment, focusing instead on upskilling their existing workforce to handle advanced infrastructure demands. Conversely, venture capital investment has surged in the deep tech and semiconductor sectors. 
 
-While mass recruitment has slowed, there is a sharp increase in demand for specialized talent capable of building and maintaining AI infrastructure. Experts suggest the industry is transitioning from an effort-based billing model to an outcome-based model, permanently altering the hiring landscape in India's technology sector.`
+Analysts predict that the second half of the year will see intense competition in the domestic semiconductor manufacturing space, following government subsidies aimed at reducing reliance on global supply chains. As regulatory frameworks adapt, the domestic tech ecosystem is prioritizing operational efficiency over rapid expansion.`
   },
   {
-    id: "india-south-africa-tech-pact-may-2026",
-    title: "India and South Africa Forge AI and DPI Partnership",
-    date: "May 22, 2026",
-    excerpt: "A new bilateral agreement upgrades the tech relationship between India and South Africa, focusing on Digital Public Infrastructure and Artificial Intelligence.",
-    content: `India and South Africa have officially upgraded their science and technology partnership. The new agreement, signed in late May 2026, establishes a framework for industrial co-production, specifically targeting Artificial Intelligence, Digital Public Infrastructure (DPI), and green energy initiatives.
+    id: "google-updates-controversy-may-2026",
+    title: "Google Core Updates Spark Controversy Among Publishers",
+    date: "May 12, 2026",
+    excerpt: "The latest algorithmic updates from Google have drawn sharp criticism from independent publishers experiencing severe traffic declines.",
+    content: `Google rolled out a major series of algorithm updates in early May 2026, aimed at prioritizing AI-curated summaries and highly authoritative domains. The deployment has triggered widespread controversy across the digital publishing industry.
 
-The partnership aims to export India's successful DPI model, which includes systems like the Unified Payments Interface (UPI) and Aadhaar, to the African continent. South African officials emphasized that adopting these frameworks will accelerate their digital inclusion efforts. 
+Independent tech blogs and specialized news outlets have reported traffic declines of up to 60 percent. The core point of contention is Google's aggressive expansion of its AI Overview feature, which answers user queries directly on the search results page without requiring a click-through to the source material.
 
-Furthermore, the two nations will collaborate on establishing joint AI research centers to focus on localized language models and agricultural technology. This move strengthens India's position as a leading technology exporter to the Global South and provides South Africa with crucial infrastructure to support its growing digital economy.`
+Publishers argue this practice severely damages their monetization models. Several international media consortiums are currently exploring legal avenues, citing anti-competitive behavior. Google has defended the updates, stating that the changes are designed to surface higher-quality information and reduce the visibility of mass-produced, low-effort content.`
   },
   {
-    id: "tcs-agm-ai-synergy-april-2026",
-    title: "TCS Rules Out Layoffs, Focuses on 'AI-Human Synergy'",
-    date: "April 15, 2026",
-    excerpt: "At the 31st Annual General Meeting, TCS Chairman N Chandrasekaran confirmed the company will not conduct layoffs, despite the shift away from massive campus hiring.",
-    content: `Tata Consultancy Services (TCS) has firmly stated it has no plans for layoffs, despite the ongoing transformation in the global IT services sector. Speaking at the company's 31st Annual General Meeting, Chairman N Chandrasekaran addressed investor concerns regarding the impact of artificial intelligence on the workforce.
+    id: "yc-startup-school-bangalore-2026",
+    title: "YC Startup School Bangalore Highlights Core Deep Tech Trends",
+    date: "April 18, 2026",
+    excerpt: "Y Combinator's intensive program in Bangalore concluded with a heavy emphasis on localized hardware solutions and climate technology startups.",
+    content: `Y Combinator hosted its highly anticipated Startup School in Bangalore this April, gathering hundreds of early-stage founders and domestic venture capitalists. The 2026 cohort demonstrated a clear pivot away from consumer internet applications toward deep technology and enterprise solutions.
 
-Chandrasekaran noted that while the era of massive, indiscriminate campus hiring is over, the company remains committed to retaining and upskilling its current workforce. He outlined a strategy focused on "AI-human synergy," describing AI as an opportunity for workforce augmentation rather than a threat to employment.
+A significant portion of the featured startups focused on solving localized infrastructure problems. Presentations highlighted innovations in sustainable agricultural technology, low-cost battery recycling, and specialized semiconductor design for edge computing. 
 
-The company is heavily investing in internal training programs to ensure employees can leverage new generative AI tools. This stance sets TCS apart from several global competitors that have announced structural layoffs in response to the changing technological landscape.`
+Partners at Y Combinator noted that the quality of technical talent in Bangalore has matured, allowing founders to tackle complex, capital-intensive problems. The event concluded with several unannounced seed funding rounds, signaling that despite broader global economic caution, highly technical Indian startups continue to attract premium valuations.`
   },
   {
-    id: "zepto-ipo-filing-march-2026",
-    title: "Zepto Files for IPO After Doubling Revenue to Rs 22,623 Crore",
-    date: "March 10, 2026",
-    excerpt: "Quick commerce giant Zepto has filed its updated DRHP, revealing massive revenue growth and signaling continued strength in the Indian startup ecosystem.",
-    content: `Quick commerce company Zepto has officially filed its updated Draft Red Herring Prospectus (DRHP) for an Initial Public Offering. The filing revealed that the company's revenue doubled to Rs 22,623 crore in the fiscal year 2026, underscoring the rapid growth and consolidation of the quick commerce sector in India.
+    id: "global-ai-summit-bharat-mandapam-2026",
+    title: "Global AI Summit at Bharat Mandapam Sets Regulatory Precedents",
+    date: "March 25, 2026",
+    excerpt: "International policymakers and technology executives convened in New Delhi to draft foundational guidelines for the responsible deployment of artificial intelligence.",
+    content: `The Global AI Summit held at the Bharat Mandapam in New Delhi brought together international delegates, technology executives, and academic researchers to establish consensus on artificial intelligence regulation. 
 
-Zepto's filing comes amid a period of cautious corporate spending globally, yet highlights the resilience of the Indian startup ecosystem. As of early 2026, India hosts over 207,000 recognized startups and 112 unicorns. 
+The three-day conference focused heavily on establishing frameworks for data sovereignty and transparent algorithmic auditing. A key outcome of the summit was the preliminary drafting of the "New Delhi Consensus," a non-binding agreement encouraging nations to mandate clear labeling for AI-generated media and to establish independent oversight boards for large-scale models.
 
-Market analysts view the upcoming IPO as a major test for the public market's appetite for high-growth tech ventures. Zepto plans to use the raised capital to expand its dark store network across tier-2 cities and invest further in AI-driven supply chain optimization.`
+Domestic leaders used the platform to showcase India's digital public infrastructure, arguing that an open-source approach to AI could democratize access to advanced computing across the Global South. The event underscored India's intent to shape global technology policy rather than simply adopting Western regulatory frameworks.`
   },
   {
-    id: "ai-infrastructure-arms-race-feb-2026",
-    title: "The $725 Billion AI Infrastructure Arms Race",
-    date: "February 18, 2026",
-    excerpt: "Major technology firms are projecting record capital expenditures in 2026 to build the data centers required for next-generation artificial intelligence.",
-    content: `The first quarter of 2026 has been defined by an unprecedented surge in capital expenditure by the world's largest technology companies. Alphabet, Amazon, Meta, and Microsoft have collectively projected their 2026 capex to reach as high as $725 billion.
+    id: "iit-delhi-becon-tech-fest-2026",
+    title: "IIT Delhi BECON 2026 Showcases Student-Led Robotics Innovations",
+    date: "February 20, 2026",
+    excerpt: "The annual BECON technology festival at IIT Delhi highlighted significant advancements in autonomous robotics and low-cost medical diagnostics.",
+    content: `The Indian Institute of Technology Delhi hosted its annual BECON technology festival, drawing thousands of engineering students, researchers, and industry scouts. The 2026 iteration of the event was dominated by breakthroughs in applied robotics and healthcare hardware.
 
-This massive financial commitment is directed almost entirely toward building the physical infrastructure necessary to support advanced artificial intelligence. The primary investments include acquiring vast tracts of land for data centers, securing energy contracts to power them, and purchasing specialized AI accelerators and hardware, such as the latest chips from NVIDIA and AMD.
+One of the standout exhibits featured a team of undergraduate students who developed an autonomous drone system capable of navigating dense urban environments for rapid medical deliveries. Another highly praised project was a low-cost, portable diagnostic device utilizing computer vision to detect early-stage crop diseases.
 
-Industry observers note that this "arms race" is creating bottlenecks in global supply chains, particularly in power generation and cooling technologies. The scale of this spending reflects a consensus among tech executives that failing to secure adequate compute capacity poses a greater risk to their businesses than overspending.`
+Industry representatives present at the event noted a marked shift in student focus from software engineering to hardware and physical engineering. Several student teams received immediate incubation offers from domestic venture capital firms, highlighting the growing commercial viability of university-level research in India.`
   },
   {
-    id: "software-valuation-reset-jan-2026",
-    title: "The AI 'Hard Reset' Wipes $1 Trillion in Software Valuations",
-    date: "January 28, 2026",
-    excerpt: "Traditional software companies faced a severe market correction in January 2026 as investors reevaluated business models disrupted by artificial intelligence.",
-    content: `January 2026 marked a harsh reality check for the global technology sector, referred to by analysts as the AI "hard reset." Over the course of the month, nearly $1 trillion in market value was erased from traditional software companies.
+    id: "india-innovates-2026",
+    title: "India Innovates 2026: 'Bits & Bytes' Event Charts Digital Future",
+    date: "January 15, 2026",
+    excerpt: "The inaugural 'India Innovates: Bits & Bytes' conference at Bharat Mandapam opened the year with major announcements regarding domestic semiconductor manufacturing.",
+    content: `The inaugural 'India Innovates: Bits & Bytes' conference commenced at the Bharat Mandapam, setting an aggressive technological agenda for 2026. The event, attended by leading domestic industrialists and international supply chain partners, focused on accelerating India's hardware manufacturing capabilities.
 
-The sell-off was triggered by growing realization among investors that legacy Software-as-a-Service (SaaS) business models are highly vulnerable to disruption by new AI capabilities. As enterprise clients began replacing expensive software subscriptions with bespoke, AI-generated tools and autonomous agents, traditional software vendors reported significant drops in renewal rates.
+The centerpiece of the conference was the announcement of three new semiconductor fabrication facilities, backed by significant government subsidies under the expanded Production Linked Incentive (PLI) scheme. These facilities will focus on trailing-node chips crucial for the automotive and telecommunications sectors.
 
-This market correction forced a strategic pivot across the industry. Companies are now abandoning "effort-based" work metrics and rushing to integrate AI directly into their core products. While software valuations took a significant hit, capital immediately rotated into cybersecurity firms and hardware manufacturers, which are seen as the foundational layers of the new AI economy.`
+Panel discussions highlighted the strategic necessity of reducing reliance on imported hardware components. Industry leaders emphasized that while India has established dominance in IT services, securing the physical supply chain is the critical next step for national economic security. The event concluded with pledges for increased public-private partnerships in technical skills training.`
   }
 ];
