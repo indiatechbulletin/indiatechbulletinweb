@@ -41,7 +41,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} ${outfit.variable}`}>
       <body>
-        <header className="glass-nav">
+        <header>
           <div className="nav-container">
             <Link href="/" className="logo">
               India <span>Tech</span> Bulletin
