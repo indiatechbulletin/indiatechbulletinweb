@@ -74,3 +74,7 @@ The centerpiece of the conference was the announcement of three new semiconducto
 Panel discussions highlighted the strategic necessity of reducing reliance on imported hardware components. Industry leaders emphasized that while India has established dominance in IT services, securing the physical supply chain is the critical next step for national economic security. The event concluded with pledges for increased public-private partnerships in technical skills training.`
   }
 ];
+
+export function getArticleById(id: string): Article | undefined {
+  return articles.find(article => article.id === id);
+}
