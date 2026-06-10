@@ -39,11 +39,10 @@ export default async function ArticlePage({ params }: { params: Promise<{ id: st
         <span className="news-date">{article.date}</span>
         <h1>{article.title}</h1>
       </header>
-      <div className="article-content">
-        {article.content.split('\n\n').map((paragraph, idx) => (
-          <p key={idx}>{paragraph}</p>
-        ))}
-      </div>
+      <div 
+        className="article-content" 
+        dangerouslySetInnerHTML={{ __html: article.content }} 
+      />
     </article>
   );
 }
