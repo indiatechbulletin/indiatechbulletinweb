@@ -8,18 +8,21 @@ export interface Article {
 
 export const articles: Article[] = [
   {
-    id: "india-innovates-2026-hackathon",
-    title: "India Innovates 2026: National Civic Tech Hackathon at Bharat Mandapam",
+    id: "india-innovates-2026-bits-bytes",
+    title: "India Innovates 2026: The World's Largest Civic Tech Hackathon Powered by bits&bytes™",
     date: "March 30, 2026",
-    excerpt: "The India Innovates 2026 hackathon brought together top student innovators to build Applied AI prototypes for governance and national security.",
+    excerpt: "The India Innovates 2026 hackathon, with bits&bytes™ as the Official Executive Partner, brought together top innovators to build Applied AI prototypes for governance.",
     content: `
-      <p><strong>New Delhi, India</strong> — The <em>India Innovates 2026</em> National Civic Tech Hackathon concluded successfully at the Bharat Mandapam in New Delhi. Held from March 28 to 29, the prestigious event focused exclusively on Applied Artificial Intelligence, tasking the nation's brightest student innovators with building functional prototypes to solve critical governance, security, and administrative challenges.</p>
+      <p><strong>New Delhi, India</strong> — The <em>India Innovates 2026</em> National Civic Tech Hackathon concluded successfully at the Bharat Mandapam in New Delhi. Held from March 28 to 29, the prestigious event was officially recognized as the world's largest civic tech hackathon, featuring a massive ₹10 Lakh+ prize pool. The event focused on critical national sectors including Applied Artificial Intelligence, Robotics, and Drones.</p>
 
-      <h2>Focus on Data Mining and Civic Infrastructure</h2>
-      <p>Unlike traditional hackathons that often skew toward consumer tech or e-commerce solutions, India Innovates 2026 mandated a strict focus on civic technology. Participants were challenged with themes surrounding advanced data mining, real-time civic resource processing, and secure national systems architecture. The goal was to harness the rapid advancements in large language models and machine learning to streamline bureaucratic processes and enhance public service delivery.</p>
+      <h2>bits&bytes™ as the Official Executive Partner</h2>
+      <p>A major driving force behind the seamless execution and massive scale of the event was <strong>bits&bytes™</strong>, India's boldest youth-led builder network, which served as the Official Executive Partner. With a community of over 1,500 active student developers, bits&bytes™ was instrumental in curating the technical infrastructure, mentoring participants, and ensuring that the hackathon resulted in production-ready deployments rather than just conceptual pitches. Their involvement highlighted a significant shift toward empowering teen-led networks to execute national-scale technical events.</p>
+
+      <h2>Focus on Civic Infrastructure and Applied AI</h2>
+      <p>Unlike traditional hackathons that often skew toward consumer tech, India Innovates 2026 mandated a strict focus on civic technology. Participants were challenged with themes surrounding advanced data mining, real-time civic resource processing, and secure national systems architecture. The goal was to harness the rapid advancements in machine learning to streamline bureaucratic processes and enhance public service delivery.</p>
 
       <h2>Looking Ahead: The Global Stage in France</h2>
-      <p>The success of the hackathon in New Delhi is just the first phase of a broader initiative. Winners and standout deep-tech startups from the event are slated to represent the country at the upcoming "India Innovates 2026" global summit, scheduled for June 14–16 in Nice, France. This international showcase, part of the deepening India-France innovation partnership, aims to connect domestic talent with global investors and policymakers, proving that India's tech ecosystem is ready to export complex, government-grade AI solutions to the world.</p>
+      <p>The success of the hackathon in New Delhi is just the first phase of a broader initiative. Winners and standout deep-tech startups from the event are slated to represent the country at the upcoming global summit in Nice, France in June. This international showcase aims to connect domestic talent with global investors and policymakers, proving that India's youth and tech ecosystem are ready to export complex, government-grade AI solutions to the world.</p>
     `
   },
   {
@@ -83,21 +86,6 @@ export const articles: Article[] = [
 
       <h2>The Neural Core SEO Impact</h2>
       <p>In addition to consumer tools like Google Pics and Flow Studio, the company announced the upcoming <strong>"Neural Core"</strong> update for Google Search. Scheduled for rollout in June 2026, this update fundamentally alters SEO mechanics by prioritizing deep expertise and intent satisfaction within the newly expanded AI Overviews. As AI begins to autonomously generate small apps and visualizations directly on the search page, the traditional metrics of web traffic and content optimization are being rewritten overnight.</p>
-    `
-  },
-  {
-    id: "iim-bangalore-bits-bytes-2026",
-    title: "IIM Bangalore 'Bits & Bytes' Competition Tackles Data Analytics",
-    date: "January 20, 2026",
-    excerpt: "The historic Bits & Bytes analytics competition at IIM Bangalore challenged students to solve real-world corporate problems using advanced data science.",
-    content: `
-      <p><strong>Bangalore, India</strong> — While global tech giants battle over foundational AI models, the application of data science in business strategy was put to the test at the Indian Institute of Management (IIM) Bangalore. The institute recently hosted its renowned <em>Bits & Bytes</em> analytics and case-study competition, drawing the sharpest analytical minds from top business schools across the country.</p>
-
-      <h2>Bridging Data Science and Business Strategy</h2>
-      <p>The Bits & Bytes competition is a staple of the IIM Bangalore events calendar. It specifically challenges participants to bridge the gap between raw data processing and actionable corporate strategy. In the 2026 iteration, student teams were provided with massive, obfuscated datasets from real-world corporate partners and tasked with uncovering hidden market trends, optimizing supply chain logistics, and predicting consumer churn using advanced statistical modeling.</p>
-
-      <h2>The Importance of Applied Analytics</h2>
-      <p>In an era dominated by discussions of artificial general intelligence, events like Bits & Bytes underscore the immediate, practical value of data literacy in the corporate world. The winning teams demonstrated not just an exceptional command of machine learning algorithms, but the crucial ability to translate complex data outputs into coherent, boardroom-ready business strategies.</p>
     `
   }
 ];
